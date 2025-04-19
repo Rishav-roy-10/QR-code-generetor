@@ -9,7 +9,7 @@ body {
     background: rgb(15, 18, 37);
 }
 
-/* .container { 
+.container { 
     display: flex;
     width: 400px;
     top: 50%;
@@ -18,9 +18,9 @@ body {
     padding: 25px 35px;
     position: absolute;
     transform: translate(-50% , -50%);
-} */
-.container {
-    /* display: flex; */
+} *
+/* .container {
+     display: flex; 
     width: 30%;
     min-width: 100px;
     margin: 300px auto;
@@ -28,7 +28,7 @@ body {
     padding: 25px 35px;
     align-items: center;
     border-radius: 8px;
-}
+} */
 
 .container p {
     font-size: 20px;
